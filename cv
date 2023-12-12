@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Currículum de Juan González Martín</title>
+  <style>
     h1, h2 {
       color: #333;
     }
@@ -31,9 +36,9 @@
   <section class="section">
     <h2>Educación</h2>
     <p>2022·Actualidad - Cursando: Técnico de Sistemas Microinformáticos y Redes, iFP Hospitalet de Llobregat</p>
-    <p>2023 - Título en Excel: Specialist, Microsfot</p>
-    <p>2018 - Educanción Secundaria Obligatoria, Joan XXIII·Centre Adults Gornal</p>
-    <p>2017 - PQPI: Auxiliar de Montaje de Sisemas Informáticos y Redes - Institut Provençana</p>
+    <p>2023 - Título en Excel: Specialist, Microsoft</p>
+    <p>2018 - Educación Secundaria Obligatoria, Joan XXIII·Centre Adults Gornal</p>
+    <p>2017 - PQPI: Auxiliar de Montaje de Sistemas Informáticos y Redes - Institut Provençana</p>
   </section>
 
   <section class="section">
