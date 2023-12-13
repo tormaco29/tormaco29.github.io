@@ -1,46 +1,38 @@
 <img src="https://github.com/iBrohl/ibrohl.github.io/blob/main/imagen_2022-04-25_221644148.png">
 
-# **Josué Ríos Aguilar**
+# **Juan González Martín**
 ## Objetivo Profesional
-Tengo nociones de usuario en Cisco, en Wireshark y en la suite ofimática
-de Office 365. Como también, un certificado MOS Excel.
-Mi objetivo se centra en trabajar en el área de redes y también en el de la
-programación
+Mi futuro propósito es dedicarme a la informática y nutrirme con los conocimientos de este gran sector. Me gusta aprender día a día y auto superarme.
 
 ## Formación
-### 2020 ESO
-INS, Eugeni Ors, L’Hospitalet de Llobregat, Barcelona
-• Con un promedio de un 6 aprobé la ESO.
-### 2020 - Actualidad, FPGM Sistemas Microinformáticos y Redes
- iFP Centro de Formación Profesional, Barcelona
-
-### Complementario
-2021 Competencias Digitales Excel (MOS)
-• Certificado por Microsoft.
- 2021 Inglés B2
-• English Connection - Pubilla Cases, L’Hospitalet de Llobregat,
-Barcelona
-
-## Experiencia
-Si bien no dispongo de recorrido o no tengo directamente experiencia
-estoy en proceso de mejora y con ganas de comenzar ya.
+### 2022 - Actualidad
+Cursando: Técnico de Sistemas Microinformáticos y Redes - iFP Hospitalet de Llobregat
+### 2023
+Título en Excel: Specialist - Microsoft
+### 2018 
+Educación Secundaria Obligatoria - Joan XXIII·Centre Adults Gornal
+ ### 2017 
+PQPI: Auxiliar de Montaje de Sistemas Informáticos y Redes - Institut Provençana
+ 
+## Experiencia laboral
+### Mayo 2023 - Septiembre 2023
+Asistente de personas con movilidad reducida - UTE PMR MASA SAGITAL
+### Abril 2018 - Abril 2022
+Contador/pagador de primera - Prosegur S.L
+### Enero 2018 - Abril 2018
+Camarero/Cocinero - Pans & Company
+### Abril 2017 - Junio 2017
+Auxiliar de Montaje, reparación y mantenimiento de ordenadores - VeryBox
 
 ## Competencias personales
 Soy una persona proactiva, con iniciativa, con capacidad de
 organización, además, se gestionar el estrés y sé adaptarme a ambiente
 de trabajo colaborativo social.
-
-## Otros datos de interés
-Dispongo de tiempo para trabajar por las tardes por lo cual puedo
-adaptarme con facilidad a las exigencias que en su momento se den.
-Si bien el tiempo es una de las cosas que menos me preocupan, he de
-decir que los martes y jueves hago 1h y 30min de inglés. Pero estas se
-pueden adaptar perfectamente a mis prácticas, a fin de aprovechar
-bien el tiempo.
+También soy una persona muy perfeccionista.
 
 ### Idiomas
 | Idioma | Nivel |
 |:---:|   :---:|
-|Castellano | Nivel Alto|
-|Catalán| Nivel Alto|
-|Inglés| Nivel Medio|
+|Castellano | Nativo|
+|Catalán| Nativo|
+|Inglés| Medio|
