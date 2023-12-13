@@ -1,6 +1,13 @@
 <img src="https://github.com/tormaco29/tormaco29.github.io/blob/main/Captura%20de%20pantalla%202023-12-13%20092404.png">
 
 # **Juan González Martín**
+## Técnico Informático
+
+## Información de interés
+### Edad: 24 años.
+### Residencia: Hospitalet de Llobregat.
+### Email: juangonzamar29@gmail.com
+
 ## Objetivo Profesional
 Mi futuro propósito es dedicarme a la informática y nutrirme con los conocimientos de este gran sector. Me gusta aprender día a día y auto superarme.
 
