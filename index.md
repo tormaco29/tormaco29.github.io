@@ -1,7 +1,6 @@
 <img src="https://github.com/tormaco29/tormaco29.github.io/blob/main/Captura%20de%20pantalla%202023-12-13%20092404.png">
 
 # **Juan González Martín**
-## Técnico Informático
 
 ## Información de interés
 ### Edad: 24 años.
