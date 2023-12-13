@@ -36,7 +36,7 @@ organización, además, se gestionar el estrés y sé adaptarme a ambiente
 de trabajo colaborativo social.
 También soy una persona muy perfeccionista.
 
-### Idiomas
+## Idiomas
 | Idioma | Nivel |
 |:---:|   :---:|
 |Castellano | Nativo|
