@@ -1,4 +1,4 @@
-<img src="https://github.com/iBrohl/ibrohl.github.io/blob/main/imagen_2022-04-25_221644148.png">
+<img src="https://github.com/tormaco29/tormaco29.github.io/blob/main/Captura%20de%20pantalla%202023-12-13%20092404.png">
 
 # **Juan González Martín**
 ## Objetivo Profesional
@@ -6,23 +6,23 @@ Mi futuro propósito es dedicarme a la informática y nutrirme con los conocimie
 
 ## Formación
 ### 2022 - Actualidad
-Cursando: Técnico de Sistemas Microinformáticos y Redes - iFP Hospitalet de Llobregat
+Cursando: Técnico de Sistemas Microinformáticos y Redes - iFP Hospitalet de Llobregat.
 ### 2023
-Título en Excel: Specialist - Microsoft
+Título en Excel: Specialist - Microsoft.
 ### 2018 
-Educación Secundaria Obligatoria - Joan XXIII·Centre Adults Gornal
+Educación Secundaria Obligatoria - Joan XXIII·Centre Adults Gornal.
  ### 2017 
-PQPI: Auxiliar de Montaje de Sistemas Informáticos y Redes - Institut Provençana
+PQPI: Auxiliar de Montaje de Sistemas Informáticos y Redes - Institut Provençana.
  
 ## Experiencia laboral
 ### Mayo 2023 - Septiembre 2023
-Asistente de personas con movilidad reducida - UTE PMR MASA SAGITAL
+Asistente de personas con movilidad reducida - UTE PMR MASA SAGITAL.
 ### Abril 2018 - Abril 2022
-Contador/pagador de primera - Prosegur S.L
+Contador/pagador de primera - Prosegur S.L.
 ### Enero 2018 - Abril 2018
-Camarero/Cocinero - Pans & Company
+Camarero/Cocinero - Pans & Company.
 ### Abril 2017 - Junio 2017
-Auxiliar de Montaje, reparación y mantenimiento de ordenadores - VeryBox
+Auxiliar de Montaje, reparación y mantenimiento de ordenadores - VeryBox.
 
 ## Competencias personales
 Soy una persona proactiva, con iniciativa, con capacidad de
