@@ -1,47 +1,46 @@
-# Bienvenidos a mi página de inicio
+<img src="https://github.com/iBrohl/ibrohl.github.io/blob/main/imagen_2022-04-25_221644148.png">
 
-Me presentaré, mi nombre es [Alex Viladot](https://github.com/aviladotgibert) y actualmente trabajo como profesor en los centros de [IFP formación](https://www.ifp.es/) de Hospitalet y Sants. 
+# **Josué Ríos Aguilar**
+## Objetivo Profesional
+Tengo nociones de usuario en Cisco, en Wireshark y en la suite ofimática
+de Office 365. Como también, un certificado MOS Excel.
+Mi objetivo se centra en trabajar en el área de redes y también en el de la
+programación
 
-En esta práctica enseñaré a los alumnos a usar Github para incluir proyectos en repositorios y publicar una página web como esta para poder tener un portafolio de proyectos de código.
+## Formación
+### 2020 ESO
+INS, Eugeni Ors, L’Hospitalet de Llobregat, Barcelona
+• Con un promedio de un 6 aprobé la ESO.
+### 2020 - Actualidad, FPGM Sistemas Microinformáticos y Redes
+ iFP Centro de Formación Profesional, Barcelona
 
+### Complementario
+2021 Competencias Digitales Excel (MOS)
+• Certificado por Microsoft.
+ 2021 Inglés B2
+• English Connection - Pubilla Cases, L’Hospitalet de Llobregat,
+Barcelona
 
-### PARA LA PRÁCTICA DE GITHUB:
+## Experiencia
+Si bien no dispongo de recorrido o no tengo directamente experiencia
+estoy en proceso de mejora y con ganas de comenzar ya.
 
-A través del lenguaje _Markdown_ de Github (de la misma forma que usabamos otros lenguajes de marcas) podemos modificar nuestra pagina de Jekyll para visualizar información como nosotros queramos que se vea aunque este también admite HTML+CSS como lenguaje. A continuación tienes las convenciones usadas para modificar tu página de Github:
+## Competencias personales
+Soy una persona proactiva, con iniciativa, con capacidad de
+organización, además, se gestionar el estrés y sé adaptarme a ambiente
+de trabajo colaborativo social.
 
-```markdown
-Syntax highlighted code block
+## Otros datos de interés
+Dispongo de tiempo para trabajar por las tardes por lo cual puedo
+adaptarme con facilidad a las exigencias que en su momento se den.
+Si bien el tiempo es una de las cosas que menos me preocupan, he de
+decir que los martes y jueves hago 1h y 30min de inglés. Pero estas se
+pueden adaptar perfectamente a mis prácticas, a fin de aprovechar
+bien el tiempo.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-Para más detalles visita [Escritura básica y formateo de textos](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-<!-- Si estas viendo esto, vas bien!-->
-# Practica UF2.3: Uso de Github 
-A continuación lo que quiero que hagais es que monteis vuestro própio repositorio y creeis una web como esta de vuestro curriculum vitae que realizasteis en FOL/EIE con una serie de requisitos:
-- [ ] Debe contener una foto vuestra
-- [ ] Debe contener varias categorias debidamente separadas y distinguidas
-- [ ] Debe contener listas
-- [ ] Debe estar formateado el texto para _cursiva_ y **negrita**
-
-Lo siguiente que deberéis crear es una categoría dentro del CV que sea el **portfolio**. Subid varias carpetas con proyectos de HTML/CSS realizados en clase o de otros lenguajes (Batch, python...) y enlazadlas en vuestro CV tal que así:
-- [Layouts de ejemplo](/Ejemplos_layouts/)
-- [Plantilla génerica de página principal](/LaBoheme/)
-- [Ejemplo de mensajeria con flex](/Mensajeria_flex/)
-
-Ánimo! 👍
-
-![Image](lamb.gif) 
+### Idiomas
+| Idioma | Nivel |
+|:---:|   :---:|
+|Castellano | Nivel Alto|
+|Catalán| Nivel Alto|
+|Inglés| Nivel Medio|
